@@ -1,16 +1,17 @@
-### Hi there 👋
+##INTRODUCTION
+#Hi, my name is Mohamed Abdelrahman, I am a 3rd year Software Engineering student at McGill University, and this is my GitHub page.
 
-<!--
-**MoMcGill/MoMcGill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#SKILLS AND TECHNOLOGIES
+- python
+- java
+- git
+- Django
+- HTML & CSS
 
-Here are some ideas to get you started:
+#Table of Contents
+This is the main branch/home menu of the porfolio. The branches in this project all contain separate projects. These include:
+- recursion-project
+- reservation-system
+- snake-game
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Each of these projects will contain a readme describing the project.
