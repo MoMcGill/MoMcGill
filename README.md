@@ -1,7 +1,7 @@
 # INTRODUCTION
-## Hi, my name is Mohamed Abdelrahman, I am a 3rd year Software Engineering student at McGill University, and this is my GitHub page.
+Hi, my name is Mohamed Abdelrahman, I am a 3rd year Software Engineering student at McGill University, and this is my GitHub page.
 
-# SKILLS AND TECHNOLOGIES
+## SKILLS AND TECHNOLOGIES
 - python
 - java
 - git
